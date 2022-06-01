@@ -1,0 +1,1 @@
+A Google Chrome extension to show the weather, price of bitcoin and a random nature photo when you open a new tab
